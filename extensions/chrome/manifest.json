@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "coplay",
-  "description": "Synchronously play your videos in two browsers.",
-  "version": "0.0.4",
+  "name": "又一个山寨的coplay",
+  "description": "这一次，没有汉化。做了一点微小的工作，支持了 https，excited!",
+  "version": "0.0.5",
   "icons": {
     "128": "coplay.png"
   },
