@@ -365,7 +365,11 @@
         }
 
         var peer = new Peer({
-            key: 'kl2e8piw363qsemi',
+            key: 'OECd4rcvUqk487Yt6X',
+            secure: true,
+            host: 'peer.adeline.cc',
+            port: '8520',
+
             config: {
                 // free servers from https://gist.github.com/yetithefoot/7592580
                 iceServers: [
