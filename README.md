@@ -1,3 +1,6 @@
+**DEPRECATED** The original one has supported the customed peer server.
+Use `https://peer.adeline.cc:8520` which is integrated in this repo as your peer server to support https sites.
+
 # coplay
 
 Synchronizing video play between two peers.
